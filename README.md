@@ -1,5 +1,12 @@
-# React basic
+# EPAM Azure Fundamentals Task
 
-[Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/overview) allows you to easily build [React](https://reactjs.org/) apps in minutes. Use this repo with the [React quickstart](https://docs.microsoft.com/azure/static-web-apps/getting-started?tabs=react) to build and customize a new static site.
+This is repo for azure fundamentals task which is part of **Cloud & DevOps Fundamentals Assessment**
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Steps
+
+- Created git [repository](https://github.com/ky3ow/epm-lab-static-web-app) on github
+- Cloned repository via `git@github.com:ky3ow/epm-lab-static-web-app.git` onto my local machine
+- Opened VSCode and installed **Azure Static Web Apps extension**
+- Signed in to Azure from VSCode
+- Opened command palette(`Ctrl+Shift+P`) and chose `Create Static Web App`
+![command palette](image.png)
